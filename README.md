@@ -18,7 +18,7 @@ The Aim of the Project is to provide the best areas in the BANGALORE to invest i
 The main goal of project is to predict the efficient house pricing for real estate in BANGALORE.
 To develop a website that will keep show price prediction based on land size, land location, no of bedrooms and bathrooms in BANGALORE.
 
-### Technologies Used
+### Technologies Used :computer:
 
 * Python as Programming Language
 * Pandas for Data Cleaning
@@ -27,7 +27,7 @@ To develop a website that will keep show price prediction based on land size, la
 * HTML, CSS & JS for Frontend
 * Flask for Backend Server
 
-## Project Description
+## Project Description :newspaper:
 
 We have built a Real Estate Price Prediction using fundamentals of Data Scicence and Machine Learning like
 Feature Engineering, Data Cleaning, One Hot Encoding, Outlier Detection, Dimensionality Reduction, and Model Evaluation.
@@ -44,7 +44,7 @@ The Project has a Website Made using HTML, CSS and JavaScript as frontend and a 
 
 To Setup the Project, you need to install the following:
 
-### Pre-Requisites:
+### Pre-Requisites: :white_check_mark:
 
 1. Install Git Version Control
 [ https://git-scm.com/ ]
