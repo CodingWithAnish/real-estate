@@ -119,6 +119,7 @@ python3 server.py
 
 * Open the **index.html** Page in your Browser.
 
+---
 
 The dataset used in this project is from Kaggle which is the [Bengaluru House Price Data](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data).
 
