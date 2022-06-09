@@ -123,6 +123,8 @@ python3 server.py
 
 The dataset used in this project is from Kaggle which is the [Bengaluru House Price Data](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data).
 
+---
+
 ## Contributing Members
 
 * [Anish Lohiya](https://github.com/AnishLohiya)
