@@ -4,7 +4,7 @@ This Project is a Real Estate Price Prediction using Machine Learning built for 
 
 ## Table of Contents 
 * [Project Introduction](#project-introduction)
-* [Techolgies Used](#technologies-used)
+* [Technologies Used](#technologies-used)
 * [Project Description](#project-description)
 * [Working of the Project](#working-of-the-project)
 * [Getting Started](#getting-started)
@@ -18,7 +18,7 @@ The Aim of the Project is to provide the best areas in the BANGALORE to invest i
 The main goal of project is to predict the efficient house pricing for real estate in BANGALORE.
 To develop a website that will keep show price prediction based on land size, land location, no of bedrooms and bathrooms in BANGALORE.
 
-### Technologies Used :computer:
+### Technologies Used
 
 * Python as Programming Language
 * Pandas for Data Cleaning
@@ -27,7 +27,7 @@ To develop a website that will keep show price prediction based on land size, la
 * HTML, CSS & JS for Frontend
 * Flask for Backend Server
 
-## Project Description :newspaper:
+## Project Description
 
 We have built a Real Estate Price Prediction using fundamentals of Data Scicence and Machine Learning like
 Feature Engineering, Data Cleaning, One Hot Encoding, Outlier Detection, Dimensionality Reduction, and Model Evaluation.
