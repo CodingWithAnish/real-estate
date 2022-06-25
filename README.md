@@ -1,3 +1,6 @@
+![Real Estate Price Prediction](https://user-images.githubusercontent.com/87313208/175789672-02e22b36-57af-41ea-bc39-daf4fd3d4eee.png)
+
+
 # Real Estate Price Prediction
 
 This Project is a Real Estate Price Prediction using Machine Learning built for SE Mini Project in Python.
