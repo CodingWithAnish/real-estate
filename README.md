@@ -2,7 +2,7 @@
 
 <h1 align="center">Real Estate Price Prediction</h1>
 
-This Project is a Real Estate Price Prediction using Machine Learning.
+<h2 align="center">This Project is a Real Estate Price Prediction using Machine Learning</h2>
 
 ## Table of Contents 
 * [Project Introduction](#project-introduction)
