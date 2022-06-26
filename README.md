@@ -1,4 +1,4 @@
-![Real Estate Price Prediction](https://user-images.githubusercontent.com/87313208/175789672-02e22b36-57af-41ea-bc39-daf4fd3d4eee.png)
+![Blue Modern Just Listed Real Estate Instagram Post](https://user-images.githubusercontent.com/87313208/175802670-f6fb475b-7450-424f-b68f-378bcc0c8de9.png)
 
 
 # Real Estate Price Prediction
