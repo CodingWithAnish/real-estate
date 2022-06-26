@@ -1,8 +1,12 @@
 ![Real Estate](https://user-images.githubusercontent.com/87313208/175820600-12c84fd7-4d71-4b66-b1c3-f7723e162109.png)
 
-<h1 align="center">Real Estate Price Prediction</h1>
+<p align="center">
+  <h3 align="center">REAL ESTATE PRICE PREDICTION</h3>
 
-<p align="center">This Project is a Real Estate Price Prediction using Machine Learning</p>
+  <p align="center">
+    This Project is a Real Estate Price Prediction using Machine Learning.
+  </p>
+</p>
 
 ## Table of Contents 
 * [Project Introduction](#project-introduction)
