@@ -1,4 +1,5 @@
-![Real Estate Price Prediction](https://user-images.githubusercontent.com/87313208/175819216-3df062f9-aec2-4732-b586-44e105799e03.png)
+![Real Estate Price Prediction](https://user-images.githubusercontent.com/87313208/175820585-828fb8fb-bcc0-4058-9271-68334ed0bae8.png)
+
 
 # Real Estate Price Prediction
 
