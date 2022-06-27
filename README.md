@@ -16,13 +16,14 @@
 * [Getting Started](#getting-started)
   * [Pre-requisites](#pre-requisites)
 * [Installation](#installation)
-
+* [License](#license)
+* [Contributing Guidelines](#contributing-guidlines)
 
 ## Project Introduction
 
-The Aim of the Project is to provide the best areas in the BANGALORE to invest in for a national real estate developer, individual buyers looking for a place to develop a new apartment building or to purchase one.
-The main goal of project is to predict the efficient house pricing for real estate in BANGALORE.
-We have developed a website that will show price prediction based on land size, land location, no of bedrooms and bathrooms in BANGALORE.
+The Aim of the Project is to provide the best areas in the Bangalore to invest in for a national real estate developer, individual buyers looking for a place to develop a new apartment building or to purchase one.
+The main goal of project is to predict the efficient house pricing for real estate in Bangalore.
+We have developed a website that will show price prediction based on land size, land location, no of bedrooms and bathrooms in Bangalore.
 
 ### Technologies Used
 
@@ -37,9 +38,12 @@ We have developed a website that will show price prediction based on land size, 
 
 I have built a Real Estate Price Prediction using fundamentals of Data Scicence and Machine Learning like
 Feature Engineering, Data Cleaning, One Hot Encoding, Outlier Detection, Dimensionality Reduction, and Model Evaluation.
-We have implemented a Linear Regression Model to predict the Real Estate Price. 
+I have implemented a Linear Regression Model to predict the Real Estate Price. 
 
 The Project has a Website Made using HTML, CSS and JavaScript as frontend and a Flask Server as backend where inputs are taken and predictions are made.
+
+In the Website the User Must Enter Required Area Value in sqft.Select BHK and Bathroom values.
+Choose desired Location and Click on ESTIMATE button.
 
 ## Getting Started 
 
@@ -84,20 +88,20 @@ git clone
 
 Then, Enter the project
 ```
-cd real-estate-price-prediction
+cd Real-Estate-Price-Prediction
 ```
 
 
 **4. Install Requirements from 'requirements.txt'**
 ```python
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 **5. Run the project**
 
 * Start Flask Backend Server:
 ```python
-python3 server.py
+python server.py
 ```
 
 * Open the **index.html** Page in your Browser.
@@ -106,3 +110,9 @@ python3 server.py
 The dataset used in this project is from Kaggle which is the [Bengaluru House Price Data](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data).
 
 ---
+# License
+
+
+
+# Contributing Guidlines
+
