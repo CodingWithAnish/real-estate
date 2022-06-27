@@ -14,7 +14,7 @@ Feel free to submit issues and enhancement requests.
 Contributing
 ------------
 
-Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
+Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the ["fork-and-pull" Git workflow](https://github.com/susam/gitpr).
 
 1. Fork the repository to your own Github account
 2. Clone the project to your machine
