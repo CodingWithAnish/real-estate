@@ -1,7 +1,9 @@
 Contributing to Real Estate Price Prediction
 ==========================================================
 
-We welcomes contributions to this project. When contributing, please follow the [Code of Conduct](CODE_OF_CONDUCT.md) given.
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+Please note we have a [Code of Conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 Issues
 ------
@@ -22,10 +24,4 @@ Please refer to each project's style and contribution guidelines for submitting 
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
-**Please note**
-
-  1. Make sure to follow the color schemes (given below) of the project carefully. 
-  2. This is a beginner friendly project so beginners in Open Source are welcomed to contribute!
-  3. Please do not start working on an issue until assigned. Our team will review your Issue request and assign you based on that.
-  4. You contribution/code should not hamper with the overall workflow of the project.
 
