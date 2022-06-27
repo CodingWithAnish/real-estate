@@ -45,6 +45,9 @@ The Project has a Website Made using HTML, CSS and JavaScript as frontend and a 
 In the Website the User Must Enter Required Area Value in sqft.Select BHK and Bathroom values.
 Choose desired Location and Click on ESTIMATE button.
 
+![frontend](https://user-images.githubusercontent.com/87313208/175927449-aca93888-1e1c-4cda-8884-c1cea1f4a697.png)
+
+
 ## Getting Started 
 
 To Setup the Project, you need to install the following:
